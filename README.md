@@ -29,7 +29,6 @@ This AI workflow automates responses based on chat messages. It integrates OpenA
 ```plaintext
 n8n-ai-email-assistant/
 ├── assets/
-│   └── ai-email-agent-workflow.png     # Screenshot of the workflow
-│   └── ai-email-agent-workflow.json    # Exported n8n workflow
+│   └── ScreenshotOfWorkflow.png     # Screenshot of the workflow
+│   └── Workflow.json    # Exported n8n workflow
 ├── README.md                           # Markdown documentation
-
