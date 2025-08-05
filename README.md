@@ -10,14 +10,6 @@ This AI workflow automates responses based on chat messages. It integrates OpenA
 
 ---
 
-## 🗺️ Visual Workflow
-
-
-
-> 🧪 Built with the support of **IIT Jammu**, **I3C**, and **Techible**.
-
----
-
 ## 🔧 Nodes Used
 
 | Node                    | Type              | Description                                               |
@@ -38,6 +30,6 @@ This AI workflow automates responses based on chat messages. It integrates OpenA
 n8n-ai-email-assistant/
 ├── assets/
 │   └── ai-email-agent-workflow.png     # Screenshot of the workflow
-├── workflows/
 │   └── ai-email-agent-workflow.json    # Exported n8n workflow
 ├── README.md                           # Markdown documentation
+
